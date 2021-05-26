@@ -1,5 +1,5 @@
 package Tree;
-/
+
 public class BinaryTree<T extends Comparable<T>> {
 
     private static class Node<T> {
